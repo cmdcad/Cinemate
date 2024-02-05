@@ -1,9 +1,7 @@
-export default function MovieList(){
+export function MovieList() {
     return (
         <main>
-        MovieList
-        
-
+            MovieList
         </main>
     )
 }

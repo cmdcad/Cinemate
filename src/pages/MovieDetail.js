@@ -1,4 +1,4 @@
-export default function MovieDetail(){
+export function MovieDetail() {
     return (
         <main>MovieDetail</main>
     )
